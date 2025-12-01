@@ -1,0 +1,196 @@
+{
+  "settings": {
+    "name": "Darren Despagne",
+    "title": "Architect",
+    "location": "Monticello, NY",
+    "summary": "Aspiring architectural designer with hands-on construction experience and proficiency in AutoCAD and SketchUp, passionate about sustainable design.",
+    "profileImage": "https://cdn.discordapp.com/attachments/1032138728048701480/1444458716488532150/IMG_2294.png?ex=692e1a02&is=692cc882&hm=10ea2922111a9ce300028e535494cbc4f582a32a066d72081d27ee10243c95ac"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:darren@despagnearchitecture.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "https://app.resumecoach.com/share/925a467b1ae444e88a5a8c4904e1f47e"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "AutoCAD",
+          "SketchUp",
+          "D5 Rendering",
+          "Microsoft PowerPoint",
+          "Hand drawing",
+          "Model-making"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "Despagne Architecture Co.",
+          "position": "Freelance Architectural Designer",
+          "period": "Present",
+          "description": "Beginning design and documentation of a client’s first adaptive reuse project, transforming an existing garage into livable guest rooms for Airbnb use.\n\nPreparing complete architectural drawings including floor plans, elevations, sections, and construction details aligned with code standards.\n\nApplying hands-on construction knowledge (framing, concrete, carpentry) to ensure design feasibility and accurate detailing.\n\nBalancing client needs with market appeal, integrating comfort, privacy, and functional layouts into a compact footprint.\n\nThis project marks the launch of Despagne Architecture’s client-facing work, establishing a reputation for clarity and adaptive reuse solutions."
+        },
+        {
+          "company": "BOCES",
+          "position": "Construction Student",
+          "period": "2021-2022",
+          "description": "Restored healing garden, built balcony structure, constructed indoor overhangs, fabricated wooden furniture, interpreted blueprints, and performed concrete work."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "Tartan Grid House",
+          "description": "Designed multi-story residential concept using modular grid system. Modeled circulation, cantilevered volumes, and material contrasts. Produced exploded isometrics and sectional studies.",
+          "tags": [
+            "SketchUp",
+            "Residential Design"
+          ],
+          "previewUrl": "https://drive.google.com/drive/folders/1mknDWSzH7SRZ_AeT1u9noSw2mgsas-ma?usp=sharing",
+          "repoUrl": null
+        },
+        {
+          "title": "Bird Blind Structure",
+          "description": "Designed sloped-roof shelter with multi-height viewing gaps. Integrated wood, concrete, and steel for minimal environmental impact.",
+          "tags": [
+            "Wildlife Observation",
+            "Shelter Design"
+          ],
+          "previewUrl": "https://drive.google.com/drive/folders/1J-BY69IKJeSuOKJyeaa_NZl8r1uMogcS?usp=sharing",
+          "repoUrl": null
+        },
+        {
+          "title": "Residential Site Concept",
+          "description": "Created 3D site model with house, pool, and shed. Completed as a timed SketchUp challenge (under 2 hours).",
+          "tags": [
+            "CAD 2",
+            "SketchUp",
+            "Site Modeling"
+          ],
+          "previewUrl": "https://drive.google.com/drive/folders/1DcvfJp_KcELR_Ip4KVR2AAm7RnHBAxs-?usp=sharing",
+          "repoUrl": null
+        },
+        {
+          "title": "Sustainable House Massing Models",
+          "description": "Explored volumetric studies and passive design strategies. Integrated human scale and elevation modeling.",
+          "tags": [
+            "Sustainable Design",
+            "Volumetric Studies"
+          ],
+          "previewUrl": "https://drive.google.com/file/d/18IAmjFP8JLNs59WEqIklb3atZk5C2Ncx/view?usp=sharing",
+          "repoUrl": null
+        },
+        {
+          "title": "BM2 Lab 7",
+          "description": "Drafted floor plans, elevations, sections, and foundation plan. Applied structural annotations and framing systems. Produced construction-ready documentation aligned with residential design standards.",
+          "tags": [
+            "AutoCAD",
+            "Drafting"
+          ],
+          "previewUrl": "https://drive.google.com/drive/folders/1VgmUEBy8O9mLGAGKSAxCf6mcvqAx-_kQ?usp=sharing",
+          "repoUrl": null
+        },
+        {
+          "title": "Library Addition",
+          "description": "Developed redesign concepts for a two-story library addition. Created floor plans, elevations, and 3D model studies. Presented design iterations with focus on circulation and usability.",
+          "tags": [
+            "AutoCAD",
+            "SketchUp",
+            "Library Design"
+          ],
+          "previewUrl": "https://drive.google.com/drive/folders/1tX-byxGFeNrCUKll5nIQ8eqH-2FNUCHs?usp=sharing",
+          "repoUrl": null
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "SUNY Orange - Orange County Community College",
+          "degree": "A.S. Architectural Technology",
+          "period": "Fall 2022-2026"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": false,
+      "title": "Achievements & Certifications",
+      "items": []
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "darren@despagnearchitecture.com",
+      "phone": "845-200-4580",
+      "location": "Monticello, NY"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "www.linkedin.com/in/darren-despagne",
+          "icon": "linkedin"
+        },
+        {
+          "platform": "website",
+          "url": "https://www.despagnearchitecture.com/",
+          "icon": "globe"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Darren Despagne. All rights reserved."
+  }
+}
